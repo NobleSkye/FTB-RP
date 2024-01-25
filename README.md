@@ -1,2 +1,2 @@
-# Find The Button Resourcepack
-This is a resourcepack for the find the button mini game im making (1/24/24
+# Find The Button Datapack & World
+This is the datapack/world for the resourcepack Find the button
