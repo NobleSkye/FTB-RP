@@ -1,2 +1,2 @@
-# FTB-RP
-The resourcepack for my find the button mini game! (needs datapack)
+# Find The Button Resourcepack
+This is a resourcepack for the find the button mini game im making (1/24/24
